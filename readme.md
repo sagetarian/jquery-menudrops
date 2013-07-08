@@ -3,7 +3,7 @@ jQuery MenuDrops
 
 Style your menu and sub menu's without mouse over effects and use this jQuery plugin to automatically create great mouseover effects.
 
-Note: works for WordPress style <ul> menu's.
+Note: works for WordPress style &gt;ul&lt; menu's.
 
 How to use
 ----------
